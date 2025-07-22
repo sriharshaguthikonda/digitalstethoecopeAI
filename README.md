@@ -28,9 +28,10 @@ The high cost of stethoscopes is a major obstacle for healthcare workers in low-
    flutter pub get
    ```
 3. Run the app
-	 ```
+       ```
    flutter run
-   ``` 
+   ```
+4. Automated build via GitHub Actions. Each push builds an APK, available from the workflow run artifacts.
 ## Contributing
 
 We welcome contributions from the community! To contribute, please follow these steps:
