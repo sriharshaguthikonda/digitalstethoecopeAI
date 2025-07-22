@@ -39,6 +39,9 @@ We welcome contributions from the community! To contribute, please follow these 
  2.  Create a new branch and make your changes.
  3.  Test your changes thoroughly.
  4.   Submit a pull request with a **clear description** of your changes
+## Continuous Integration
+This project uses GitHub Actions to build the Android application on every push and pull request. The generated APK is available in the workflow artifacts.
+
 ## More Information about Digital Stethoscope app - Mboathoscope
 ### Site Map
 The contents in this project follow the following structure:
