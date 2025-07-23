@@ -55,8 +55,11 @@ The contents in this project follow the following structure:
                                          │── Delete recording
                                          |── Share recording
 ```
+### Continuous Integration
+
+The project includes a GitHub Actions workflow that checks out the repository, installs Flutter and the Android SDK, and builds the release APK on each push or pull request. The resulting APK is uploaded as a workflow artifact.
+
 ### App screens
- 
 
 
 <p float="left">   
