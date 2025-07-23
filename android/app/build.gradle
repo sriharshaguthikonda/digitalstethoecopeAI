@@ -1,3 +1,11 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    // The Flutter Gradle plugin must be applied after the Android and Kotlin plugins.
+    id 'dev.flutter.flutter-gradle-plugin'
+}
+
+def kotlin_version = '1.6.10'
 def localProperties = new Properties()
 def localPropertiesFile = rootProject.file('local.properties')
 if (localPropertiesFile.exists()) {
@@ -19,13 +27,6 @@ if (flutterVersionCode == null) {
 def flutterVersionName = localProperties.getProperty('flutter.versionName')
 if (flutterVersionName == null) {
     flutterVersionName = '1.0'
-}
-
-plugins {
-    id 'com.android.application'
-    id 'kotlin-android'
-    // The Flutter Gradle plugin must be applied after the Android and Kotlin plugins.
-    id 'dev.flutter.flutter-gradle-plugin'
 }
 
 android {
