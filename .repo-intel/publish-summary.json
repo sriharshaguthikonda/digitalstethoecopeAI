@@ -1,0 +1,60 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/digitalstethoecopeAI",
+    "generatedAt":  "2026-06-01T06:04:44.4850375Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  7,
+    "totalBytes":  584913,
+    "maps":  [
+                 {
+                     "name":  "codex/add-github-actions-build-workflow",
+                     "ref":  "refs/remotes/origin/codex/add-github-actions-build-workflow",
+                     "commit":  "f3d510c041f68f601ba9b671a097b409f58d0d1b",
+                     "path":  ".repo-intel/branches/remote-origin/codex-add-github-actions-build-workflow__f3d510c041f6/repo-map-full.json",
+                     "bytes":  84247
+                 },
+                 {
+                     "name":  "e58k5n-codex/add-github-actions-build-workflow",
+                     "ref":  "refs/remotes/origin/e58k5n-codex/add-github-actions-build-workflow",
+                     "commit":  "1712266a5d67c9743f4c66b0f37f008890a81754",
+                     "path":  ".repo-intel/branches/remote-origin/e58k5n-codex-add-github-actions-build-workflow__1712266a5d67/repo-map-full.json",
+                     "bytes":  84579
+                 },
+                 {
+                     "name":  "ih7tq7-codex/add-github-actions-build-workflow",
+                     "ref":  "refs/remotes/origin/ih7tq7-codex/add-github-actions-build-workflow",
+                     "commit":  "e170c816b18396e08974bea1cecc30f132a9821d",
+                     "path":  ".repo-intel/branches/remote-origin/ih7tq7-codex-add-github-actions-build-workflow__e170c816b183/repo-map-full.json",
+                     "bytes":  84373
+                 },
+                 {
+                     "name":  "master",
+                     "ref":  "refs/remotes/origin/master",
+                     "commit":  "78d3238ad5e6d763634ff6b092cc634027d79be5",
+                     "path":  ".repo-intel/branches/remote-origin/master__78d3238ad5e6/repo-map-full.json",
+                     "bytes":  82882
+                 },
+                 {
+                     "name":  "prototype",
+                     "ref":  "refs/remotes/origin/prototype",
+                     "commit":  "cd41e9688f7fd90ab3988c7e173a3f93e3e99d85",
+                     "path":  ".repo-intel/branches/remote-origin/prototype__cd41e9688f7f/repo-map-full.json",
+                     "bytes":  57406
+                 },
+                 {
+                     "name":  "xxl561-codex/add-github-actions-build-workflow",
+                     "ref":  "refs/remotes/origin/xxl561-codex/add-github-actions-build-workflow",
+                     "commit":  "287054b8a8f259040f863437071b66f856fe808e",
+                     "path":  ".repo-intel/branches/remote-origin/xxl561-codex-add-github-actions-build-workflow__287054b8a8f2/repo-map-full.json",
+                     "bytes":  83970
+                 },
+                 {
+                     "name":  "zjpns6-codex/add-github-actions-build-workflow",
+                     "ref":  "refs/remotes/origin/zjpns6-codex/add-github-actions-build-workflow",
+                     "commit":  "feae5c0f59a72f55aab99a325334861c27b6c906",
+                     "path":  ".repo-intel/branches/remote-origin/zjpns6-codex-add-github-actions-build-workflow__feae5c0f59a7/repo-map-full.json",
+                     "bytes":  83942
+                 }
+             ]
+}
